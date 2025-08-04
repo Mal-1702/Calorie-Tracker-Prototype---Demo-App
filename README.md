@@ -2,10 +2,10 @@
 
 ** Python ** and ** streamlight ** a novice-friendly yet powerful calorie tracker app. This app helps users:
 
----->  Log in their daily meal
+---->  Takes inputs of Foods and kcal are simultaneously added 
 ---->  Calorie Intake Track Call
 ---->  monitor progress toward calorie targets
----->  Get smart instructions and health alerts
+---->  Gives suggestions on Increasing and Decreasing Food intake 
 
 ---
 
