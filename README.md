@@ -10,8 +10,7 @@
 ---
 
 ## Features
-
-Food food add and remove food  
+---->  You can add food measure your calories and directly clear everything by clear option 
 ----> Indian Food Calorie Database (Poha, Upma, Dosa, etc.)  
 DAILY Set daily calorie goals  
 Get Real Real-Time Tracking  
